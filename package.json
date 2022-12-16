@@ -1,0 +1,16 @@
+{
+  "name": "codeop-fs-test-week-four",
+  "version": "0.0.0",
+  "author": "Germinal Camps for CodeOp",
+  "private": true,
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  },
+  "devDependencies": {
+    "husky": "^1.3.1",
+    "prettier": "^1.16.4",
+    "pretty-quick": "^1.10.0"
+  }
+}

@@ -1,0 +1,8 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/react/node_modules
+/react/dist
+/vue/node_modules
+/vue/dist
+/node_modules
