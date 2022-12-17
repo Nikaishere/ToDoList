@@ -62,5 +62,5 @@ Give yourself a grade for each question. Explain why you gave yourself that grad
 
 ### 1. To Do List
 
-- Grade:
-- Explanation:
+- Grade: 3
+- Explanation: I struggle a lot with the syntax so I wasn't able to do it without looking at my portfolio project or the slides. Even though I have a general understading of the code, I'm not able to replicate it if I don't check the syntax or how some hooks work in React. I struggle a lot to do the styling because I have no idea how to use TailWind even though, I tried to do it with the "add wish" button. I did import the dependency, but then, even reading the documentation, I wasn't able to do it.

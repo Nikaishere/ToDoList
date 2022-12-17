@@ -1,3 +1,56 @@
-h3 {
-  color: red;
+h2 {
+  color: black;
+}
+.App {
+  text-align: center;
+}
+
+.task {
+  background-color: #afc2d5;
+  border-radius: 6px;
+  margin-bottom: 15px;
+  padding: 10px 140px 10px 20px;
+  text-align: left;
+  font-size: 20px;
+  position: relative;
+}
+
+.task div {
+  display: flex;
+  align-items: center;
+}
+.task .done .taskText {
+  text-decoration: line-through;
+  opacity: 0.3;
+}
+
+.taskText {
+  flex: 1;
+}
+.iconWrapper {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 15px;
+  width: auto;
+  display: inline-block;
+  cursor: pointer;
+}
+.iconWrapper span {
+  display: inline-block;
+  margin: 0px 10px 0px 10px;
+}
+
+.taskNumber {
+  color: grey;
+  border: 1px solid grey;
+  border-radius: 50%;
+  width: 26px;
+  height: 26px;
+  display: flex;
+  text-align: center;
+  font-size: 14px;
+  margin-right: 8px;
+  align-items: center;
+  justify-content: center;
 }
